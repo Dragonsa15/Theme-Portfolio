@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  color: white;
+  font-size: 50px;
+}
+
+.my-col {
+  justify-content: center;
+  top: 20rem;
+  position: relative;
+}
+
+.hello-col {
+  text-indent: 1.5em;
+  border-radius: 25px;
+  background: #0000ff
+}
